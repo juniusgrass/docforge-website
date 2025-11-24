@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DocForge icon">
+  <!-- Background: blue rounded square -->
+  <rect x="12" y="12" width="232" height="232" rx="40" ry="40" fill="#2F6FED" />
+
+  <!-- Document shape: white sheet with folded corner -->
+  <rect x="64" y="52" width="92" height="132" rx="10" ry="10" fill="#FFFFFF" />
+  <!-- Folded corner -->
+  <path d="M156 52 L196 92 L156 92 Z" fill="#E5EBFF" />
+  <!-- Right edge of document (subtle) -->
+  <rect x="150" y="62" width="6" height="112" fill="#E0E7FF" />
+
+  <!-- Arrow: indicates conversion/export -->
+  <path d="M170 104 L218 128 L170 152 Z" fill="#10B981" />
+
+  <!-- Letter D inside the document -->
+  <text x="110" y="135" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, -apple-system, system-ui, sans-serif"
+        font-size="72" font-weight="700" fill="#10B981">
+    D
+  </text>
+</svg>

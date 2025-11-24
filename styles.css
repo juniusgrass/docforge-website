@@ -53,11 +53,10 @@ header {
   gap: 10px;
 }
 
-.brand-mark {
+.brand-logo {
   width: 28px;
   height: 28px;
-  border-radius: 999px;
-  background: radial-gradient(circle at 30% 20%, #fbbf24 0, #f97316 40%, #0f172a 100%);
+  border-radius: 8px;
   box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.9), 0 0 30px rgba(248, 250, 252, 0.35);
 }
 
